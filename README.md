@@ -44,6 +44,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 ➡️ When you want to **generate textures for your assets**
 
 - [Charmed Texture Generator](https://charmed.ai/splash/texture-generator) (Proprietary, Sign Up, Free): Generate UV-unwrapped textures for complex 3D objects.
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [DreamTextures](https://github.com/carson-katri/dream-textures) (Open Source, Free): Create different types of textures with a **simple text prompt**.
 - [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) (Open Source, Free)
 
